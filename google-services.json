@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493359064824",
+    "project_id": "kelimelik-52398",
+    "storage_bucket": "kelimelik-52398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493359064824:android:7717eeac9cb66018b67d0d",
+        "android_client_info": {
+          "package_name": "com.kelimelik.kelimelikapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493359064824-4smk5gu9u2pb7fs5a5gvgr2osum6f1b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Q46T0g3wBxPlACq-rIgaPEikpTh5WZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493359064824-4smk5gu9u2pb7fs5a5gvgr2osum6f1b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
